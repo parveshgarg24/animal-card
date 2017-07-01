@@ -1,0 +1,36 @@
+/* add your CSS here */
+#facts{
+font-style:italic;
+}
+img{
+width:300px;
+margin-bottom:10px;
+}
+ul{
+list-style-type:none;
+}
+li{
+margin-left:-40px;
+}
+span{
+ font-weight:bold;
+}
+body{
+align:center;
+width:320px;
+height:auto;
+box-shadow:6px 6px 0px 0px rgba(68,68,68,0.15);
+border:1px solid rgba(0,0,0,.3);
+margin-top:5px;
+margin-left:auto;
+margin-right:auto;
+}
+#contact{
+padding:10px;
+}
+#contact1{ 
+border:1px solid rgba(0,0,0,.3);
+margin:0px;
+padding:5px;
+}
+
